@@ -2,9 +2,9 @@
 
 The final project is to replicate the pipeline approach to data analysis on a topic of your choice.
 
-Written proposal due date: Wednesday, April 19th
+Written proposal due date: **Wednesday, April 19th**
 
-Project due date: Tuesday, May 9th
+Project due date: **Tuesday, May 9th**
 
 You may turn these in by email (galkamaxd at gmail) or in person at class.
 
